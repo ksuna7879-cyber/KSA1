@@ -1,0 +1,6 @@
+{
+  "name": "통섭: 기술과 문화의 문명사",
+  "description": "인류사 전반에 걸친 통섭적(과학·사회·인류·철학·예술) 관점에서 기술과 문화의 상호작용과 파생 문화를 분석하는 인터랙티브 탐구 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
